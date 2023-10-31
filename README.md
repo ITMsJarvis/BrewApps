@@ -2,6 +2,11 @@
 
 This repository contains the backend for BrewApps, a sample application demonstrating CRUD (Create, Read, Update, Delete) operations for managing books. The backend is built using Node.js and various packages such as Express, Mongoose, and others.
 
+## Press on the photo to check how to test via POSTMAN
+
+[![Testing Via POSTMAN](https://miro.medium.com/v2/resize:fit:720/format:webp/1*UjfpcPx0p410o13vpB7mlQ.png)](https://vimeo.com/879905831?share=copy)
+
+
 ## Table of Contents
 
 - [Features](#features)
